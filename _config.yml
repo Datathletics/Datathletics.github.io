@@ -91,3 +91,5 @@ relative_links:
   collections: false
 
 
+
+theme: jekyll-theme-minimal
